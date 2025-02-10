@@ -107,3 +107,8 @@ You're currently signed in as ahantowsee.nasifa@gmail.com and with github.com/an
 Sign out and sign in with a different account. If you are the app's developer, update the source control account associated with your account.
 
 If you believe this is a bug, contact support.
+
+
+
+Oh no.
+Error running app. If you need help, try the Streamlit docs and forums.
