@@ -38,6 +38,8 @@ compare different shares, calculate profit/loss, and receive automated email upd
   * Run the following command:
                      pip install streamlit yfinance pandas plotly forex-python openai sqlite3 smtplib
 
+### Go to replit 
+ * [code in replit](https://replit.com/@ahantowseenasif/Stock-Market-Website?v=1)
 
 
 ----------------------------------------
