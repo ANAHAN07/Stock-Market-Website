@@ -179,3 +179,14 @@ Try 'streamlit run --help' for help.
 Error: Streamlit requires raw Python (.py) files, but the provided file has no extension.
 
 For more information, please see https://docs.streamlit.io
+
+
+
+
+
+ModuleNotFoundError: No module named 'plotly'
+Traceback:
+File "/home/runner/workspace/Stock Market Website/main.py", line 44, in <module>
+    from pages.currency_exchanger import currency_exchange_page
+File "/home/runner/workspace/Stock Market Website/pages/currency_exchanger.py", line 4, in <module>
+    import plotly.express as px
