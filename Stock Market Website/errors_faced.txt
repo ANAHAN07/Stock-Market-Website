@@ -97,3 +97,18 @@ File "C:\Users\USER\anaconda3\Lib\site-packages\openai\api_requestor.py", line 7
     self._interpret_response_line(
 File "C:\Users\USER\anaconda3\Lib\site-packages\openai\api_requestor.py", line 765, in _interpret_response_line
     raise self.handle_error_response(
+
+
+https://share.streamlit.io/errors/not_found
+
+You do not have access to this app or it does not exist
+You're currently signed in as ahantowsee.nasifa@gmail.com and with github.com/anahan07. Are you sure these accounts have access?
+
+Sign out and sign in with a different account. If you are the app's developer, update the source control account associated with your account.
+
+If you believe this is a bug, contact support.
+
+
+
+Oh no.
+Error running app. If you need help, try the Streamlit docs and forums.
