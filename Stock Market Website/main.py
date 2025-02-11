@@ -1,4 +1,3 @@
-# main.py
 import streamlit as st
 from utils.auth import register_user, login_user
 
