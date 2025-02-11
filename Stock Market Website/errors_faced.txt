@@ -112,3 +112,13 @@ If you believe this is a bug, contact support.
 
 Oh no.
 Error running app. If you need help, try the Streamlit docs and forums.
+
+
+
+Error: Streamlit requires raw Python (.py) files, but the provided file has no extension.
+
+For more information, please see https://docs.streamlit.io
+
+[06:15:20] ❗️ Streamlit server consistently failed status checks
+
+[06:15:20] ❗️ Please fix the errors, push an update to the git repo, or reboot the app.
