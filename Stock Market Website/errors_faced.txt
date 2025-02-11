@@ -122,3 +122,60 @@ For more information, please see https://docs.streamlit.io
 [06:15:20] ❗️ Streamlit server consistently failed status checks
 
 [06:15:20] ❗️ Please fix the errors, push an update to the git repo, or reboot the app.
+
+
+
+
+
+[07:42:45] 🐍 Python dependencies were installed from /mount/src/stock-market-website/requirements.txt using uv.
+
+Check if streamlit is installed
+
+Streamlit is already installed
+
+[07:42:46] 📦 Processed dependencies!
+
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+
+Try 'streamlit run --help' for help.
+
+
+Error: Streamlit requires raw Python (.py) files, but the provided file has no extension.
+
+For more information, please see https://docs.streamlit.io
+
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+
+Try 'streamlit run --help' for help.
+
+
+
+
+
+
+Error: Streamlit requires raw Python (.py) files, but the provided file has no extension.
+
+For more information, please see https://docs.streamlit.io
+
+[07:42:48] ❗️ error restarting streamlit: exit status 7: output: streamlit: ERROR (not running)
+streamlit: ERROR (spawn error)
+
+[07:42:48] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
+
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+
+Try 'streamlit run --help' for help.
+
+
+Error: Streamlit requires raw Python (.py) files, but the provided file has no extension.
+
+For more information, please see https://docs.streamlit.io
+
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+
+Try 'streamlit run --help' for help.
+
+
+Error: Streamlit requires raw Python (.py) files, but the provided file has no extension.
+
+For more information, please see https://docs.streamlit.io
